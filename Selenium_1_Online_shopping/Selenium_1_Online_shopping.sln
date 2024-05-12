@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selenium_1_Online_shopping", "Selenium_1_Online_shopping\Selenium_1_Online_shopping.csproj", "{A19F9C4E-BFE3-416A-972C-51A689AD1504}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A19F9C4E-BFE3-416A-972C-51A689AD1504}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A19F9C4E-BFE3-416A-972C-51A689AD1504}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A19F9C4E-BFE3-416A-972C-51A689AD1504}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A19F9C4E-BFE3-416A-972C-51A689AD1504}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C68B2DEB-262D-478B-9EC3-C3F3D2DA124F}
+	EndGlobalSection
+EndGlobal

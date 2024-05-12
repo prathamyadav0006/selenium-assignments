@@ -1,0 +1,83 @@
+Visiting easemytrip
+Selecting boarding city: Mumbai
+Selecting destination city: Kolkata
+Selecting boarding and destination cities
+Clicking element with Xpath: //*[@id="frmcity"]
+Sending text to input element with Xpath: //*[@id="a_FromSector_show"]
+Clicking element with Xpath: //*[@id="fromautoFill"]/ul/li
+Sending text to input element with Xpath: //*[@id="a_Editbox13_show"]
+Clicking element with Xpath: //*[@id="toautoFill"]/ul/li
+Clicking element with class name: active-date
+Extracting travellers count w.r.t category from the excel sheet
+Travelling class: E
+Selecting number of travellers
+Clicking element with Xpath: //*[@id="myFunction4"]
+Clicking element with Xpath: //*[@id="add"]
+Clicking element with Xpath: /html/body/form/div[5]/div[3]/div/div[3]/div/div[6]/div[2]/div/div[2]/div[2]/button[2]
+Clicking element with Xpath: /html/body/form/div[5]/div[3]/div/div[3]/div/div[6]/div[2]/div/div[2]/div[2]/button[2]
+Clicking element with Xpath: /html/body/form/div[5]/div[3]/div/div[3]/div/div[6]/div[2]/div/div[3]/div[2]/button[2]
+Clicking element with Xpath: /html/body/form/div[5]/div[3]/div/div[3]/div/div[6]/div[2]/div/div[3]/div[2]/button[2]
+Clicking element with Xpath: //*[@id="lbEconomy"]
+Clicking element with Xpath: //*[@id="traveLer"]
+Clicking element with Xpath: //*[@id="showOWRT"]/div/div[8]/button
+Round trip status: yes
+Selecting the round trip fligt
+Clicking element with Xpath: //*[@id="ServiceControllerId"]/div[4]/div/div[4]/div/div/div[1]/div/div[2]/div[1]/div[1]/ul/li[2]
+Clicking element with Xpath: //*[@id="rdate"]
+Clicking element with Xpath: //*[@id="30/03/2024"]
+Clicking element with Xpath: //*[@id="btnSrch"]
+Extracting highest and lowest price for round trip from the web page
+Putting maximum price 68704 and minimum price 33456 in excel
+priceBox with id spnPrice52 not presentno such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="DivOut52"]/div[6]/div/div[2]"}
+  (Session info: chrome=122.0.6261.112); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Extracting highest and lowest price for round trip from the web page
+Putting maximum price 122406 and minimum price 30192 in excel
+priceBox with id spnPrice133 not presentno such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="DivIN133"]/div[6]/div/div[3]"}
+  (Session info: chrome=122.0.6261.112); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Clicking element with Xpath: //*[@id="BtnBookNow"]
+Clicking element with Xpath: //*[@id="DivMoreFareRT"]/div/div[3]/div/div/div[2]
+Extracting contact details of traveller
+Filling traveller contact information
+Clicking element with Xpath: //*[@id="divInsuranceTab"]/div[3]/div[1]/label
+Sending text to input element with Xpath: //*[@id="txtEmailId"]
+Clicking element with Xpath: //*[@id="spnVerifyEmail"]
+Sending text to input element with Xpath: //*[@id="txtCPhone"]
+Extracting personal details of all the travellers
+Filling traveller personal information
+Clicking element with Xpath: //*[@id="titleAdult0"]
+Clicking element with Xpath: //*[@id="titleAdult0"]/option[2]
+Sending text to input element with Xpath: //*[@id="txtFNAdult0"]
+Sending text to input element with Xpath: //*[@id="txtLNAdult0"]
+Clicking element with Xpath: //*[@id="titleAdult1"]
+Clicking element with Xpath: //*[@id="titleAdult1"]/option[4]
+Sending text to input element with Xpath: //*[@id="txtFNAdult1"]
+Sending text to input element with Xpath: //*[@id="txtLNAdult1"]
+Clicking element with Xpath: //*[@id="titleChild0"]
+Clicking element with Xpath: //*[@id="titleChild0"]/option[3]
+Sending text to input element with Xpath: //*[@id="txtFNChild0"]
+Sending text to input element with Xpath: //*[@id="txtLNChild0"]
+Clicking element with Xpath: //*[@id="titleChild1"]
+Clicking element with Xpath: //*[@id="titleChild1"]/option[3]
+Sending text to input element with Xpath: //*[@id="txtFNChild1"]
+Sending text to input element with Xpath: //*[@id="txtLNChild1"]
+Clicking element with Xpath: //*[@id="titleInfant0"]
+Clicking element with Xpath: //*[@id="titleInfant0"]/option[3]
+Sending text to input element with Xpath: //*[@id="txtFNInfant0"]
+Sending text to input element with Xpath: //*[@id="txtLNInfant0"]
+Clicking element with Xpath: //*[@id="divDOBDayInfant0"]
+Clicking element with Xpath: //*[@id="divDOBDayInfant0"]/option[2]
+Clicking element with Xpath: //*[@id="divDOBMonInfant0"]
+Clicking element with Xpath: //*[@id="divDOBMonInfant0"]/option[2]
+Clicking element with Xpath: //*[@id="divDOBYarInfant0"]
+Clicking element with Xpath: //*[@id="divDOBYarInfant0"]/option[2]
+Clicking element with Xpath: //*[@id="titleInfant1"]
+Clicking element with Xpath: //*[@id="titleInfant1"]/option[2]
+Sending text to input element with Xpath: //*[@id="txtFNInfant1"]
+Sending text to input element with Xpath: //*[@id="txtLNInfant1"]
+Clicking element with Xpath: //*[@id="divDOBDayInfant1"]
+Clicking element with Xpath: //*[@id="divDOBDayInfant1"]/option[2]
+Clicking element with Xpath: //*[@id="divDOBMonInfant1"]
+Clicking element with Xpath: //*[@id="divDOBMonInfant1"]/option[2]
+Clicking element with Xpath: //*[@id="divDOBYarInfant1"]
+Clicking element with Xpath: //*[@id="divDOBYarInfant1"]/option[2]
+Flight booking completed
